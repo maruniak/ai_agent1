@@ -1,0 +1,4 @@
+ollama
+llama_index
+wikipedia
+llama-index-llms-ollama
